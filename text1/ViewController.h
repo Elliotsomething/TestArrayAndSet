@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 
-
+-(void)sample;
+-(void)seg1:(NSString *)string seg2:(NSUInteger)num;
 @end
 
